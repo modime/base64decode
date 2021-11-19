@@ -1,2 +1,2 @@
-# base64decode
+# Base64decode
 Simple function that decode base64 encoded strings 
